@@ -1,0 +1,2 @@
+webpackJsonp([2],{YcJa:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("p",[this._v("404 - Not Found")])])}]},l=n("C7Lr")(null,r,!1,null,null,null);t.default=l.exports}});
+//# sourceMappingURL=2.89992fb432894acde6c0.js.map
